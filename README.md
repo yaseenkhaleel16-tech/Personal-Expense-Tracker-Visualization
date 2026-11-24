@@ -61,3 +61,9 @@ Return to the terminal and press `Ctrl + C`.
 For your own CSV, use:
 
 `date,category,amount,payment_method,description`
+
+<img width="1882" height="967" alt="picture 51" src="https://github.com/user-attachments/assets/ddd1a13a-70e3-4730-bf74-fa42c16a8523" />
+<img width="1447" height="750" alt="picture 52" src="https://github.com/user-attachments/assets/4ff26cf2-1e79-4ecd-a256-aff3d6b5dcd3" />
+<img width="1428" height="703" alt="picture 53" src="https://github.com/user-attachments/assets/c38a6a93-1eb8-4948-98c9-e414739d5d11" />
+<img width="1397" height="601" alt="picture 54" src="https://github.com/user-attachments/assets/5de587ab-2229-4dca-b027-3b9cfdbf6cc4" />
+
